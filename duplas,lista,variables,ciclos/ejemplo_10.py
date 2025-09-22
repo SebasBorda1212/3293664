@@ -1,2 +1,0 @@
-dato = None
-print(dato)
