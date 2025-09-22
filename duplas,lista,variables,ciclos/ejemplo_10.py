@@ -1,0 +1,2 @@
+dato = None
+print(dato)
