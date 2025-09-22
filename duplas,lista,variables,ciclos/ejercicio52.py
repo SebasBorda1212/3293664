@@ -1,0 +1,2 @@
+t_sebastian = (1, 2, 3)
+print(t_sebastian.count(2))
