@@ -1,0 +1,1 @@
+const horas_sebastian_borda=40;const tarifa_sebastian_borda=10;console.log(horas_sebastian_borda*tarifa_sebastian_borda);

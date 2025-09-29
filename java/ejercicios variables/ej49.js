@@ -1,0 +1,1 @@
+const num_sebastian_borda=12345;console.log(Number(String(num_sebastian_borda).split('').reverse().join('')));

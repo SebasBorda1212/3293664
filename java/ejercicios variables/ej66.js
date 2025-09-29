@@ -1,0 +1,1 @@
+const M_sebastian_borda=[[1,2,3],[4,5,6]];console.log(M_sebastian_borda[0].map((_,c)=>M_sebastian_borda.map(r=>r[c])));

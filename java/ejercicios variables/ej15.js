@@ -1,0 +1,1 @@
+const n_sebastian_borda=6;function fact_sebastian_borda(n){let r=1;for(let i=2;i<=n;i++)r*=i;return r;}console.log(fact_sebastian_borda(n_sebastian_borda));

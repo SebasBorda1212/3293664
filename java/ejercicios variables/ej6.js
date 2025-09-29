@@ -1,0 +1,1 @@
+const peso_sebastian_borda=70;const altura_sebastian_borda=1.75;console.log(peso_sebastian_borda/(altura_sebastian_borda*altura_sebastian_borda));

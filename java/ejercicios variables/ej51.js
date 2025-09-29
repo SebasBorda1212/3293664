@@ -1,0 +1,1 @@
+const A_sebastian_borda=[[1,2],[3,4]];const B_sebastian_borda=[[5,6],[7,8]];const R_sebastian_borda=A_sebastian_borda.map((row,i)=>row.map((v,j)=>v+B_sebastian_borda[i][j]));console.log(R_sebastian_borda);

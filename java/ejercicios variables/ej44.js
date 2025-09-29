@@ -1,0 +1,1 @@
+const n_sebastian_borda=10;for(let i=1,c=0;c<n_sebastian_borda;i++)if(i%2===0){console.log(i);c++;}

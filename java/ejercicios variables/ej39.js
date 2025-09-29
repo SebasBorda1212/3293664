@@ -1,0 +1,1 @@
+const num_sebastian_borda=255;console.log(num_sebastian_borda.toString(2));

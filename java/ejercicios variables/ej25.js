@@ -1,0 +1,1 @@
+const km_sebastian_borda=5;console.log(km_sebastian_borda*1000+' metros');

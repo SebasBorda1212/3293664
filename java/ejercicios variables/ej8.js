@@ -1,0 +1,1 @@
+const cuenta_sebastian_borda=120;console.log(cuenta_sebastian_borda*0.10,cuenta_sebastian_borda*0.15,cuenta_sebastian_borda*0.20);

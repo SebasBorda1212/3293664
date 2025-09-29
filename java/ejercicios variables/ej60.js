@@ -1,0 +1,1 @@
+const n_sebastian_borda=50;const sieve_sebastian_borda=Array(n_sebastian_borda+1).fill(true);sieve_sebastian_borda[0]=sieve_sebastian_borda[1]=false;for(let p=2;p*p<=n_sebastian_borda;p++)if(sieve_sebastian_borda[p])for(let q=p*p;q<=n_sebastian_borda;q+=p)sieve_sebastian_borda[q]=false;console.log(sieve_sebastian_borda.map((v,i)=>v?i:null).filter(v=>v));

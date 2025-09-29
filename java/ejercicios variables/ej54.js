@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[5,3,8,1];for(let i=0;i<arr_sebastian_borda.length;i++)for(let j=0;j<arr_sebastian_borda.length-1-i;j++)if(arr_sebastian_borda[j]>arr_sebastian_borda[j+1]){[arr_sebastian_borda[j],arr_sebastian_borda[j+1]]=[arr_sebastian_borda[j+1],arr_sebastian_borda[j]];}console.log(arr_sebastian_borda);

@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[1,2,3,4];const x_sebastian_borda=3;console.log(arr_sebastian_borda.indexOf(x_sebastian_borda)!==-1);

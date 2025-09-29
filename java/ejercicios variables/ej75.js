@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[1,2,3];console.log(arr_sebastian_borda.map(x=>x*2));

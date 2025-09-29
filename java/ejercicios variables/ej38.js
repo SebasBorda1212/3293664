@@ -1,0 +1,1 @@
+const compras_sebastian_borda=[100,200,50];const puntos_sebastian_borda=compras_sebastian_borda.reduce((s,c)=>s+Math.floor(c/10),0);console.log(puntos_sebastian_borda);

@@ -1,0 +1,1 @@
+const num_sebastian_borda=12345;console.log(String(Math.abs(num_sebastian_borda)).split('').reduce((s,c)=>s+Number(c),0));

@@ -1,0 +1,1 @@
+const opcion_sebastian_borda=2;const menu_sebastian_borda={1:'Hamburguesa',2:'Pizza',3:'Ensalada'};console.log(menu_sebastian_borda[opcion_sebastian_borda]||'opcion no valida');

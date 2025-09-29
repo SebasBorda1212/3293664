@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[1,2,2,3,1];const freq_sebastian_borda={};arr_sebastian_borda.forEach(x=>freq_sebastian_borda[x]=(freq_sebastian_borda[x]||0)+1);console.log(freq_sebastian_borda);

@@ -1,0 +1,1 @@
+const n_sebastian_borda=7;console.log(n_sebastian_borda%2===0?'par':'impar');

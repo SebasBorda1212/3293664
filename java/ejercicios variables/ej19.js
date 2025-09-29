@@ -1,0 +1,1 @@
+const cantidad_sebastian_borda=100;const tasa_usd_to_eur_sebastian_borda=0.92;console.log(cantidad_sebastian_borda*tasa_usd_to_eur_sebastian_borda);

@@ -1,0 +1,1 @@
+const a_sebastian_borda=48;const b_sebastian_borda=18;function gcd_sebastian_borda(a,b){while(b){[a,b]=[b,a%b];}return a;}function lcm_sebastian_borda(a,b){return Math.abs(a*b)/gcd_sebastian_borda(a,b);}console.log(gcd_sebastian_borda(a_sebastian_borda,b_sebastian_borda),lcm_sebastian_borda(a_sebastian_borda,b_sebastian_borda));

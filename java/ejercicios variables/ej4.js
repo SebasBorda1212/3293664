@@ -1,0 +1,1 @@
+const anioNacimiento_sebastian_borda=1990;const anioActual_sebastian_borda=new Date().getFullYear();console.log(anioActual_sebastian_borda-anioNacimiento_sebastian_borda);

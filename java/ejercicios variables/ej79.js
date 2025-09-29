@@ -1,0 +1,1 @@
+const M_sebastian_borda=[[1,2,3],[4,5,6],[7,8,9]];const R_sebastian_borda=Array.from({length:3},(_,i)=>Array.from({length:3},(_,j)=>M_sebastian_borda[2-j][i]));console.log(R_sebastian_borda);

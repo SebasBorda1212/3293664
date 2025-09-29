@@ -1,0 +1,1 @@
+const A_sebastian_borda=[1,2,3];const B_sebastian_borda=[3,4,5];console.log({union:Array.from(new Set([...A_sebastian_borda,...B_sebastian_borda])),interseccion:A_sebastian_borda.filter(x=>B_sebastian_borda.includes(x))});

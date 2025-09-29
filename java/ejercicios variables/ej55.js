@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[5,3,8,1];console.log(Math.max(...arr_sebastian_borda),Math.min(...arr_sebastian_borda));

@@ -1,0 +1,1 @@
+const anio_sebastian_borda=2024;console.log((anio_sebastian_borda%4===0&&anio_sebastian_borda%100!==0)||(anio_sebastian_borda%400===0));

@@ -1,0 +1,1 @@
+const precio_sebastian_borda=200;const descuentoPorc_sebastian_borda=15;console.log(precio_sebastian_borda*(1-descuentoPorc_sebastian_borda/100));

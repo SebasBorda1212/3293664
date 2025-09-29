@@ -1,0 +1,1 @@
+const d_sebastian_borda=3;const dias_sebastian_borda=['lunes','martes','miercoles','jueves','viernes','sabado','domingo'];console.log(dias_sebastian_borda[d_sebastian_borda-1]||'numero invalido');

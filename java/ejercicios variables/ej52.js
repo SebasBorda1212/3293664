@@ -1,0 +1,1 @@
+const A_sebastian_borda=[[1,2,3],[4,5,6]];const B_sebastian_borda=[[7,8],[9,10],[11,12]];const R_sebastian_borda=Array.from({length:A_sebastian_borda.length},(_,i)=>Array.from({length:B_sebastian_borda[0].length},(_,j)=>A_sebastian_borda[i].reduce((s,r,k)=>s+r*B_sebastian_borda[k][j],0)));console.log(R_sebastian_borda);

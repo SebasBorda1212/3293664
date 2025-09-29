@@ -1,0 +1,1 @@
+const M_sebastian_borda=[[1,2],[2,1]];const sim_sebastian_borda=M_sebastian_borda.every((r,i)=>r.every((v,j)=>v===M_sebastian_borda[j][i]));console.log(sim_sebastian_borda);

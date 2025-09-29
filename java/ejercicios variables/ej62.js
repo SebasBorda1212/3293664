@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[1,2,2,3];console.log(arr_sebastian_borda.filter(x=>arr_sebastian_borda.indexOf(x)===arr_sebastian_borda.lastIndexOf(x)));

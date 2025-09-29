@@ -1,0 +1,1 @@
+const n_sebastian_borda=5;const serie_sebastian_borda=[];for(let i=0;i<n_sebastian_borda;i++)serie_sebastian_borda.push(2*(i+1));console.log(serie_sebastian_borda);

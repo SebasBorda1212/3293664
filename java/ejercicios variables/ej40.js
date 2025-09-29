@@ -1,0 +1,1 @@
+const saldo_sebastian_borda=1000;const retiro_sebastian_borda=200;console.log(saldo_sebastian_borda>=retiro_sebastian_borda?saldo_sebastian_borda-retiro_sebastian_borda:'fondos insuficientes');

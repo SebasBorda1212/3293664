@@ -1,0 +1,1 @@
+const n_sebastian_borda=29;function esPrimo_sebastian_borda(n){if(n<2)return false;for(let i=2;i*i<=n;i++)if(n%i===0)return false;return true;}console.log(esPrimo_sebastian_borda(n_sebastian_borda));

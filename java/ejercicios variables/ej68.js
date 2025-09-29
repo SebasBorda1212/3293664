@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[1,2,3,2];const buscar_sebastian_borda=2;const reemplazo_sebastian_borda=9;console.log(arr_sebastian_borda.map(x=>x===buscar_sebastian_borda?reemplazo_sebastian_borda:x));

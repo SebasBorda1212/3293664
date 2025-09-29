@@ -1,0 +1,1 @@
+const n_sebastian_borda=10;const primos_sebastian_borda=[];for(let num=2;primos_sebastian_borda.length<n_sebastian_borda;num++){let es=true;for(let j=2;j*j<=num;j++)if(num%j===0){es=false;break;}if(es)primos_sebastian_borda.push(num);}console.log(primos_sebastian_borda);

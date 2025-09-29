@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[-2,1,-3,4,-1,2,1,-5,4];let max_ending=arr_sebastian_borda[0],max_so_far=arr_sebastian_borda[0];for(let i=1;i<arr_sebastian_borda.length;i++){max_ending=Math.max(arr_sebastian_borda[i],max_ending+arr_sebastian_borda[i]);max_so_far=Math.max(max_so_far,max_ending);}console.log(max_so_far);

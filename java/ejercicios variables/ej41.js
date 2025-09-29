@@ -1,0 +1,1 @@
+const n_sebastian_borda=7;for(let i=1;i<=10;i++)console.log(`${n_sebastian_borda} x ${i} = ${n_sebastian_borda*i}`);

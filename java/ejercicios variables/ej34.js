@@ -1,0 +1,1 @@
+const op_sebastian_borda='sqrt';const val_sebastian_borda=9;console.log(op_sebastian_borda==='sqrt'?Math.sqrt(val_sebastian_borda):op_sebastian_borda==='pow'?Math.pow(val_sebastian_borda,3):null);

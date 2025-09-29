@@ -1,0 +1,1 @@
+const n_sebastian_borda=4;const I_sebastian_borda=Array.from({length:n_sebastian_borda},(_,i)=>Array.from({length:n_sebastian_borda},(_,j)=>i===j?1:0));console.log(I_sebastian_borda);

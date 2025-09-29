@@ -1,0 +1,1 @@
+const n_sebastian_borda=10;const fib_sebastian_borda=[0,1];for(let i=2;i<n_sebastian_borda;i++)fib_sebastian_borda.push(fib_sebastian_borda[i-1]+fib_sebastian_borda[i-2]);console.log(fib_sebastian_borda.slice(0,n_sebastian_borda));

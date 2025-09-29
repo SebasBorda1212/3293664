@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[1,2,3,4,5];const k_sebastian_borda=2;console.log(arr_sebastian_borda.slice(-k_sebastian_borda).concat(arr_sebastian_borda.slice(0,-k_sebastian_borda)));

@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[5,3,8,1];console.log(arr_sebastian_borda.reduce((s,c)=>s+c,0)/arr_sebastian_borda.length);

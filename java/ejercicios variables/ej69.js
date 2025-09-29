@@ -1,0 +1,1 @@
+const A_sebastian_borda=[1,3,5];const B_sebastian_borda=[2,4,6];console.log([...A_sebastian_borda,...B_sebastian_borda].sort((a,b)=>a-b));

@@ -1,0 +1,1 @@
+const s_sebastian_borda='radar';console.log(s_sebastian_borda===s_sebastian_borda.split('').reverse().join(''));

@@ -1,0 +1,1 @@
+const a_sebastian_borda=12;const b_sebastian_borda=4;console.log(a_sebastian_borda+b_sebastian_borda);console.log(a_sebastian_borda-b_sebastian_borda);console.log(a_sebastian_borda*b_sebastian_borda);console.log(a_sebastian_borda/b_sebastian_borda);

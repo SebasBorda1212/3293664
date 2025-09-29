@@ -1,0 +1,1 @@
+const mes_sebastian_borda=4;console.log(mes_sebastian_borda>=3&&mes_sebastian_borda<=5?'primavera':mes_sebastian_borda>=6&&mes_sebastian_borda<=8?'verano':mes_sebastian_borda>=9&&mes_sebastian_borda<=11?'otono':mes_sebastian_borda===12||mes_sebastian_borda<=2?'invierno':'mes invalido');

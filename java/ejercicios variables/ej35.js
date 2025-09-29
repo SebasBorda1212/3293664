@@ -1,0 +1,1 @@
+const empleados_sebastian_borda=[{tipo:'full',horas:40},{tipo:'part',horas:20}];const pago_sebastian_borda=empleados_sebastian_borda.map(e=>e.tipo==='full'?e.horas*10:e.horas*8);console.log(pago_sebastian_borda);

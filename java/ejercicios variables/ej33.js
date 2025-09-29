@@ -1,0 +1,1 @@
+const segundos_sebastian_borda=3661;const h_sebastian_borda=Math.floor(segundos_sebastian_borda/3600);const m_sebastian_borda=Math.floor((segundos_sebastian_borda%3600)/60);const s_sebastian_borda=segundos_sebastian_borda%60;console.log(h_sebastian_borda+'h '+m_sebastian_borda+'m '+s_sebastian_borda+'s');

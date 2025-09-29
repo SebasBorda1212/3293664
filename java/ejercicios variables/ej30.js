@@ -1,0 +1,1 @@
+const opciones=['piedra','papel','tijera'];const p1_sebastian_borda='piedra';const p2_sebastian_borda='tijera';console.log(p1_sebastian_borda===p2_sebastian_borda?'empate':(p1_sebastian_borda==='piedra'&&p2_sebastian_borda==='tijera')||(p1_sebastian_borda==='tijera'&&p2_sebastian_borda==='papel')||(p1_sebastian_borda==='papel'&&p2_sebastian_borda==='piedra')?'gana p1':'gana p2');

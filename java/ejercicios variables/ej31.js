@@ -1,0 +1,1 @@
+const ingresos_sebastian_borda=45000;const impuesto_sebastian_borda=ingresos_sebastian_borda>50000?0.3:ingresos_sebastian_borda>30000?0.2:0.1;console.log(ingresos_sebastian_borda*impuesto_sebastian_borda);

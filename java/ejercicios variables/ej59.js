@@ -1,0 +1,1 @@
+const limite_sebastian_borda=100;const perfectos_sebastian_borda=[];for(let n=1;n<=limite_sebastian_borda;n++){let s=0;for(let d=1;d<n;d++)if(n%d===0)s+=d;if(s===n)perfectos_sebastian_borda.push(n);}console.log(perfectos_sebastian_borda);

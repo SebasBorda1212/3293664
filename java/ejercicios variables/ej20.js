@@ -1,0 +1,1 @@
+const capital_sebastian_borda=1000;const tasa_sebastian_borda=0.05;const tiempo_sebastian_borda=2;console.log(capital_sebastian_borda*tasa_sebastian_borda*tiempo_sebastian_borda);

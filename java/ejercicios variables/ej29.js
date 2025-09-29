@@ -1,0 +1,1 @@
+const categoria_sebastian_borda='gold';const precio_sebastian_borda=100;const desc_sebastian_borda=categoria_sebastian_borda==='gold'?20:categoria_sebastian_borda==='silver'?10:0;console.log(precio_sebastian_borda*(1-desc_sebastian_borda/100));

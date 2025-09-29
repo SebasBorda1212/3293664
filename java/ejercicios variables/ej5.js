@@ -1,0 +1,1 @@
+const c_sebastian_borda=25;const f_from_c_sebastian_borda=c_sebastian_borda*9/5+32;const f_sebastian_borda=77;const c_from_f_sebastian_borda=(f_sebastian_borda-32)*5/9;console.log(f_from_c_sebastian_borda);console.log(c_from_f_sebastian_borda);

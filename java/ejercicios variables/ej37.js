@@ -1,0 +1,1 @@
+const peso_sebastian_borda=70;const met_min_sebastian_borda=30;const cal_por_min_sebastian_borda=8;console.log(peso_sebastian_borda*cal_por_min_sebastian_borda*met_min_sebastian_borda/200);

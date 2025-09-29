@@ -1,0 +1,1 @@
+const objs_sebastian_borda=[{name:'b',age:30},{name:'a',age:25}];console.log(objs_sebastian_borda.sort((x,y)=>x.name.localeCompare(y.name)));

@@ -1,0 +1,1 @@
+const medio_sebastian_borda='taxi';const distancia_sebastian_borda=10;const tarifas_sebastian_borda={taxi:2,coche:1.5,metro:1};console.log((tarifas_sebastian_borda[medio_sebastian_borda]||0)*distancia_sebastian_borda);

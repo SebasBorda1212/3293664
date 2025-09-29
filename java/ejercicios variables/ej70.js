@@ -1,0 +1,1 @@
+const seq_sebastian_borda=[1,2,4,5];const missing_sebastian_borda=[];for(let i=seq_sebastian_borda[0];i<=seq_sebastian_borda[seq_sebastian_borda.length-1];i++)if(!seq_sebastian_borda.includes(i))missing_sebastian_borda.push(i);console.log(missing_sebastian_borda);

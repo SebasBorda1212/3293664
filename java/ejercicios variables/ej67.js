@@ -1,0 +1,1 @@
+const M_sebastian_borda=[[1,2,3],[4,5,6],[7,8,9]];console.log(M_sebastian_borda.reduce((s,r,i)=>s+ (r[i]||0),0));

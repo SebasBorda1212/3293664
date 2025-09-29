@@ -1,0 +1,1 @@
+const n_sebastian_borda=5;for(let i=1;i<=n_sebastian_borda;i++){console.log('*'.repeat(i));}

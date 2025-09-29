@@ -1,0 +1,1 @@
+const distancia_sebastian_borda=150;const tiempo_sebastian_borda=3;console.log(distancia_sebastian_borda/tiempo_sebastian_borda);

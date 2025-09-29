@@ -1,0 +1,1 @@
+const texto_sebastian_borda='Hola Mundo';console.log((texto_sebastian_borda.match(/[aeiouAEIOU]/g)||[]).length);

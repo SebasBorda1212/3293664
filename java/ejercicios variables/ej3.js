@@ -1,0 +1,1 @@
+const a_sebastian_borda=5;const b_sebastian_borda=9;const c_sebastian_borda=3;let mayor_sebastian_borda=a_sebastian_borda;if(b_sebastian_borda>mayor_sebastian_borda)mayor_sebastian_borda=b_sebastian_borda;if(c_sebastian_borda>mayor_sebastian_borda)mayor_sebastian_borda=c_sebastian_borda;console.log(mayor_sebastian_borda);

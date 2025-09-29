@@ -1,0 +1,1 @@
+const a_sebastian_borda=3;const b_sebastian_borda=4;const c_sebastian_borda=5;console.log(a_sebastian_borda===b_sebastian_borda&&b_sebastian_borda===c_sebastian_borda?'equilatero':a_sebastian_borda===b_sebastian_borda||b_sebastian_borda===c_sebastian_borda||a_sebastian_borda===c_sebastian_borda?'isosceles':'escaleno');

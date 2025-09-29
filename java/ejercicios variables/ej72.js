@@ -1,0 +1,1 @@
+const arr_sebastian_borda=[1,2,3,4,5];const target_sebastian_borda=6;const pares_sebastian_borda=[];for(let i=0;i<arr_sebastian_borda.length;i++)for(let j=i+1;j<arr_sebastian_borda.length;j++)if(arr_sebastian_borda[i]+arr_sebastian_borda[j]===target_sebastian_borda)pares_sebastian_borda.push([arr_sebastian_borda[i],arr_sebastian_borda[j]]);console.log(pares_sebastian_borda);
