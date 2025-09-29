@@ -1,0 +1,1 @@
+function validar_sebastian_borda(x){return typeof x!=='undefined'&&x!==null;}console.log(validar_sebastian_borda(0));

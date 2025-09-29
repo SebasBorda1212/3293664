@@ -1,0 +1,1 @@
+const n_sebastian_borda=0;console.log(n_sebastian_borda>0?'positivo':(n_sebastian_borda<0?'negativo':'cero'));

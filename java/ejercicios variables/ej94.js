@@ -1,0 +1,1 @@
+function cesar_sebastian_borda(s,k){return s.split('').map(c=>/[a-zA-Z]/.test(c)?String.fromCharCode(c.charCodeAt(0)+k):c).join('');}console.log(cesar_sebastian_borda('abc',1));

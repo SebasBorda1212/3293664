@@ -1,0 +1,1 @@
+const edad_sebastian_borda=70;console.log(edad_sebastian_borda<12?50:edad_sebastian_borda<18?25:0);

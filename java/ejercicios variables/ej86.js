@@ -1,0 +1,1 @@
+function countWords_sebastian_borda(s){return s.trim()?s.trim().split(/\s+/).length:0;}console.log(countWords_sebastian_borda('hola mundo desde js'));

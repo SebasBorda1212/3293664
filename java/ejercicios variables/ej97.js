@@ -1,0 +1,1 @@
+function sin_sebastian_borda(x){return Math.sin(x);}console.log(sin_sebastian_borda(Math.PI/2));

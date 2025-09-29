@@ -1,0 +1,1 @@
+function genPwd_sebastian_borda(n){const s='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';let r='';for(let i=0;i<n;i++)r+=s[Math.floor(Math.random()*s.length)];return r;}console.log(genPwd_sebastian_borda(12));

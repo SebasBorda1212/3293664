@@ -1,0 +1,1 @@
+function binSearch_sebastian_borda(arr,x){let l=0,r=arr.length-1;while(l<=r){let m=Math.floor((l+r)/2);if(arr[m]===x)return m;else if(arr[m]<x)l=m+1;else r=m-1;}return -1;}console.log(binSearch_sebastian_borda([1,2,3,4],3));

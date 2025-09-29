@@ -1,0 +1,1 @@
+const t_sebastian_borda=0;console.log(t_sebastian_borda<=0?'solido':t_sebastian_borda<100?'liquido':'gaseoso');

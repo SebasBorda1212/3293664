@@ -1,0 +1,1 @@
+function genTable_sebastian_borda(n){return Array.from({length:10},(_,i)=>`${n} x ${i+1} = ${n*(i+1)}`);}console.log(genTable_sebastian_borda(5));

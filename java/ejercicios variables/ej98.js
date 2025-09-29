@@ -1,0 +1,1 @@
+function genReport_sebastian_borda(data){return {rows:data.length,summary:data.reduce((s,c)=>s+c,0)};}console.log(genReport_sebastian_borda([1,2,3]));

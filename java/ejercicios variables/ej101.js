@@ -1,0 +1,1 @@
+const a_sebastian_borda=5;const b_sebastian_borda=3;console.log(a_sebastian_borda>b_sebastian_borda?a_sebastian_borda:b_sebastian_borda);

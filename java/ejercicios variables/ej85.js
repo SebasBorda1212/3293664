@@ -1,0 +1,1 @@
+function formatDate_sebastian_borda(d){const D=new Date(d);return `${D.getFullYear()}-${String(D.getMonth()+1).padStart(2,'0')}-${String(D.getDate()).padStart(2,'0')}`;}console.log(formatDate_sebastian_borda('2025-01-02'));

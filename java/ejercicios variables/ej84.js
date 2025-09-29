@@ -1,0 +1,1 @@
+function validarEmail_sebastian_borda(e){return /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e);}console.log(validarEmail_sebastian_borda('test@example.com'));

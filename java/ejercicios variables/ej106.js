@@ -1,0 +1,1 @@
+const nota_sebastian_borda=85;console.log(nota_sebastian_borda>=90?'A':nota_sebastian_borda>=80?'B':nota_sebastian_borda>=70?'C':nota_sebastian_borda>=60?'D':'F');

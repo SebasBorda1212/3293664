@@ -1,0 +1,1 @@
+function baseConvert_sebastian_borda(n,base){return n.toString(base);}console.log(baseConvert_sebastian_borda(255,16));

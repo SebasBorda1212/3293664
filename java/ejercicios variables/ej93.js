@@ -1,0 +1,1 @@
+function luhn_sebastian_borda(s){let sum=0;let alt=false;for(let i=s.length-1;i>=0;i--){let d=Number(s[i]);if(alt){d*=2;if(d>9)d-=9;}sum+=d;alt=!alt;}return sum%10===0;}console.log(luhn_sebastian_borda('4532015112830366'));

@@ -1,0 +1,1 @@
+function manip_sebastian_borda(s){return {upper:s.toUpperCase(),lower:s.toLowerCase(),len:s.length};}console.log(manip_sebastian_borda('Hola'));

@@ -1,0 +1,1 @@
+const dia_sebastian_borda='lunes';console.log(['sabado','domingo'].includes(dia_sebastian_borda)?'fin de semana':'laboral');

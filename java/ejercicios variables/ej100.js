@@ -1,0 +1,1 @@
+const users_sebastian_borda=[{user:'a',pw:'1'},{user:'b',pw:'2'}];function auth_sebastian_borda(u,p){return users_sebastian_borda.some(x=>x.user===u&&x.pw===p);}console.log(auth_sebastian_borda('a','1'));

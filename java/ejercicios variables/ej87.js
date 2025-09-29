@@ -1,0 +1,1 @@
+function fibRec_sebastian_borda(n){if(n<2)return n;return fibRec_sebastian_borda(n-1)+fibRec_sebastian_borda(n-2);}console.log(Array.from({length:10},(_,i)=>fibRec_sebastian_borda(i)));

@@ -1,0 +1,1 @@
+function sort_sebastian_borda(arr){return arr.slice().sort((a,b)=>a-b);}console.log(sort_sebastian_borda([3,1,2]));

@@ -1,0 +1,1 @@
+const fs_sebastian_borda={files:{}};function write_sebastian_borda(name,content){fs_sebastian_borda.files[name]=content;}function read_sebastian_borda(name){return fs_sebastian_borda.files[name]||null;}write_sebastian_borda('a.txt','hola');console.log(read_sebastian_borda('a.txt'));

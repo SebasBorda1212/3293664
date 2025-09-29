@@ -1,0 +1,1 @@
+const edad_sebastian_borda=25;console.log(edad_sebastian_borda<13?'niño':edad_sebastian_borda<20?'adolescente':edad_sebastian_borda<65?'adulto':'adulto mayor');

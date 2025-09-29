@@ -1,0 +1,1 @@
+function sumar_sebastian_borda(a,b){return a+b;}console.log(sumar_sebastian_borda(4,5));
